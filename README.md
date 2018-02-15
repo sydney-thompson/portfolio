@@ -1,2 +1,2 @@
 # portfolio
-A brief portfolio of coding samples
+A brief portfolio of coding samples.
